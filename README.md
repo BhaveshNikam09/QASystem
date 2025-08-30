@@ -26,7 +26,7 @@ This is a Question Answering (Q&A) system based on documents using **Google Gemi
 2. Install the necessary libraries using pip:
 
 ```bash
-pip install llama_index google-generativeai streamlit python-dotenv
+pip install -r requirements.txt
 ```
 
 ### Setting up API Key
